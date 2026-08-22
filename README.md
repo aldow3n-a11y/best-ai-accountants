@@ -31,7 +31,7 @@ Live at: https://aldow3n-a11y.github.io/best-ai-accountants/
 - Financial Cents
 
 ## Lead capture
-formsubmit.co → discus.leads@protonmail.com
+formsubmit.co → discus.leads@proton.me
 
 ## Next
 - Sign up for Bench partner program (priority)
